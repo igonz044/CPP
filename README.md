@@ -8,7 +8,7 @@ How to Run Cpp Program from terminal
 6. Run program ./<name>
 
 Steps to Set up Github
-1. Create token
+1. Create token, (if expired -> Settings -> Developer Tools -> PAT -> Generate New Token)
 2. To Upload files from Computer
     a. Create File on Github
     b. Follow on screen instructions: …or create a new repository on the command line
