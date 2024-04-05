@@ -16,5 +16,3 @@ Steps to Set up Github
 3. Git add .
 4. Git commit -m "message"
 5. Git push
-
-Now your ready to start practicing your c++ coding skills!
